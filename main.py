@@ -4,4 +4,3 @@ print(f"Hallo {naam}")
 fav_vak = input("Wat is je favoriete schoolvak?")
 if fav_vak.lower() == "informatica":
     print("Goed zo!")
-#
